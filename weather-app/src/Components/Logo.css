@@ -1,0 +1,10 @@
+.nav-container{
+    display: flex;
+    margin: 10px;
+    pad: 10px;
+}
+.logo{
+    width: 65px;
+    height: auto;
+    margin-left: 10px;
+}

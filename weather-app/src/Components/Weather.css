@@ -1,0 +1,95 @@
+.temp {
+    display: inline-flex;
+    align-items: center;
+    gap: 24px;
+    color: white;
+}
+
+.temp-logo {
+    height: 80px;
+    width: auto;
+}
+
+.temp-container {
+    margin: auto;
+}
+
+.details {
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    gap: 15px;
+}
+
+.city {
+    display: flex;
+    color: white;
+}
+
+.forecast {
+
+    background: rgba(112, 112, 112, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    width: 30%;
+    margin-right: 90px;
+    height: 355px;
+}
+.forecast-text{
+    font-size: medium;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.container {
+    display: flex;
+    margin-top: 130px;
+    gap: 28%;
+
+}
+
+.temp-text {
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.city-text {
+    font-size: 30px;
+    font-weight: 700;
+}
+.days{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.forecast-logo{
+    position: absolute;
+    display: flex;
+    top: 52px;
+    left: 156px;
+    flex-direction: column;
+    gap: 8px;
+}
+.Flogo{
+    height: auto;
+    width: 45px;
+}
+
+.centi{
+    font-size:xx-large;
+    font-weight: 700;   
+}
+.forecast-temp{
+    position: absolute;
+    display: flex;
+    top: 45px;
+    left: 300px;
+    flex-direction: column;
+    
+    font-weight: 800;
+}

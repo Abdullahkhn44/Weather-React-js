@@ -1,5 +1,8 @@
 body {
   margin: 0;
+  background-image: url(./Assets/Images/Rainy.jpg);
+  background-size: cover;
+  background-position:top;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
